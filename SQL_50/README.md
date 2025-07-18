@@ -19,3 +19,5 @@ SQL LENGTH() Function : to get the length of record\
 hint:\
 for better performance in time complixity in case of checking the length of string we can use the CHAR_LENGTH() to return specifically the number of characters in a string\
 <https://learnsql.com/cookbook/how-to-check-the-length-of-a-string-in-sql/>
+
+### Join
