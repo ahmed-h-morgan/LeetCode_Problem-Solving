@@ -21,5 +21,3 @@ for better performance in time complixity in case of checking the length of stri
 <https://learnsql.com/cookbook/how-to-check-the-length-of-a-string-in-sql/>
 
 ### Join
-
-
