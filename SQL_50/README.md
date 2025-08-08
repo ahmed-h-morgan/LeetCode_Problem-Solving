@@ -22,3 +22,5 @@ for better performance in time complixity in case of checking the length of stri
 
 ### Join
 
+4_197-Rising_Temperature\
+<https://www.w3schools.com/mysql/func_mysql_datediff.asp>.
